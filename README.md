@@ -8,4 +8,19 @@ A Ecommerce Frontend Dummy App built using react with fakestore API
 - Sorting products
 - Cart implementation
 - Dark/light mode support
-- Dummy checkout 
+- Dummy checkout
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm install
+# or
+npm run dev
+```
+## Libraries / Technologies used
+- Context Api
+- Axios
+- Tailwind CSS
+
